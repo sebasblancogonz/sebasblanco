@@ -1,0 +1,20 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Jun 2018 - Dec 2018",
+			"company" : "GFI Levante",
+			"description" : "A project for Le Ministère de la Culture, France. Development and maintenance of web applications, mostly built in Java (Spring Framework and Struts 2) and JSP. There are also PHP applications. It is a very varied project that uses front and back technologies. HTML5, CSS3 and JQuery is used in this project. For databases, MySQL, Oracle and PostgreSQL."
+		},
+		{
+			"timeperiod" : "Dec 2018 - Oct 2019",
+			"company" : "Altia",
+			"description" : "As a member of the Real Time Platform Team, I've been responsible for developing web services (mostly RESTful services) of vital importance for the intranet of Inditex. More than 3 services are working on PROD environment and dealing with a big amount of requests per day. I've carried out different tasks, from improving and optimizing services - improving response times of some services from minutes to milliseconds - to performing new functionalities or migrating services from legacy servers (Weblogic, Websphere) to Openshift. "
+		},
+		{
+			"timeperiod" : "Oct 2019 - present",
+			"company" : "Goldcar Spain",
+			"description" : "Migration of the vehicle availability calculation, which was developed on Delphi, and moving it to Java. We're not just changing the language, we have raised the project from scratch, as if it was a new project. We're using micro services to do so."
+		}
+	]
+}
