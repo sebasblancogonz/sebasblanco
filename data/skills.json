@@ -1,0 +1,11 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Java" : "80",
+		"Spring Boot" : "80",
+		"Spock" : "70",
+		"jUnit" : "75",
+		"ReactJS": "55",
+		"NodeJS": "60"
+	}
+}
