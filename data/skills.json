@@ -6,6 +6,7 @@
 		"Spock" : "70",
 		"jUnit" : "75",
 		"ReactJS": "55",
-		"NodeJS": "60"
+		"NodeJS": "60",
+		"Go": "40"
 	}
 }
